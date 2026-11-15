@@ -1,0 +1,9 @@
+{
+  "name": "Multivoid",
+  "version_number": "0.9.292",
+  "website_url": "https://multivoid.dev",
+  "description": "In-progress multiplayer mod for Voices of the Void: early phases, but already offers a fair bit -- expect bugs. Play the whole game with up to three friends: shared world, voice chat, join any time. For VotV 0.9.0n, modifies no game files.",
+  "dependencies": [
+    "Thunderstore-unreal_shimloader-1.1.7"
+  ]
+}
